@@ -1,0 +1,3134 @@
+[
+  {
+    "id": "11014",
+    "name": "Alexander",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Creme de Cacao",
+        "measure": "1/2 oz white"
+      },
+      {
+        "name": "Light cream",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Nutmeg",
+        "measure": ""
+      }
+    ],
+    "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/0clus51606772388.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11014",
+    "search_text": "칵테일 이름: Alexander\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (1/2 oz), Creme de Cacao (1/2 oz white), Light cream (2 oz), Nutmeg (분량 미기재)\n제조법: Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve."
+  },
+  {
+    "id": "15941",
+    "name": "Americano",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins glass",
+    "ingredients": [
+      {
+        "name": "Campari",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Sweet Vermouth",
+        "measure": "1 oz red"
+      },
+      {
+        "name": "Lemon peel",
+        "measure": "Twist of"
+      },
+      {
+        "name": "Orange peel",
+        "measure": "Twist of"
+      }
+    ],
+    "instructions": "Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/709s6m1613655124.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/15941",
+    "search_text": "칵테일 이름: Americano\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Collins glass\n재료와 분량: Campari (1 oz), Sweet Vermouth (1 oz red), Lemon peel (Twist of), Orange peel (Twist of)\n제조법: Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice."
+  },
+  {
+    "id": "17180",
+    "name": "Aviation",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "4.5 cl"
+      },
+      {
+        "name": "lemon juice",
+        "measure": "1.5 cl"
+      },
+      {
+        "name": "maraschino liqueur",
+        "measure": "1.5 cl"
+      }
+    ],
+    "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/trbplb1606855233.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17180",
+    "search_text": "칵테일 이름: Aviation\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (4.5 cl), lemon juice (1.5 cl), maraschino liqueur (1.5 cl)\n제조법: Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry."
+  },
+  {
+    "id": "15853",
+    "name": "B-52",
+    "category": "Shot",
+    "alcoholic": "Alcoholic",
+    "glass": "Shot glass",
+    "ingredients": [
+      {
+        "name": "Baileys irish cream",
+        "measure": "1/3"
+      },
+      {
+        "name": "Grand Marnier",
+        "measure": "1/3"
+      },
+      {
+        "name": "Kahlua",
+        "measure": "1/4"
+      }
+    ],
+    "instructions": "Layer ingredients into a shot glass. Serve with a stirrer.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/15853",
+    "search_text": "칵테일 이름: B-52\n분류: Shot\n알코올 여부: Alcoholic\n잔 종류: Shot glass\n재료와 분량: Baileys irish cream (1/3), Grand Marnier (1/3), Kahlua (1/4)\n제조법: Layer ingredients into a shot glass. Serve with a stirrer."
+  },
+  {
+    "id": "17254",
+    "name": "Bijou",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Orange Bitters",
+        "measure": "1 dash"
+      },
+      {
+        "name": "Green Chartreuse",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Gin",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Sweet Vermouth",
+        "measure": "1 oz"
+      }
+    ],
+    "instructions": "Stir in mixing glass with ice and strain",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/rysb3r1513706985.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17254",
+    "search_text": "칵테일 이름: Bijou\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Orange Bitters (1 dash), Green Chartreuse (1 oz), Gin (1 oz), Sweet Vermouth (1 oz)\n제조법: Stir in mixing glass with ice and strain"
+  },
+  {
+    "id": "11106",
+    "name": "Blackthorn",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Sweet Vermouth",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Sloe gin",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Lemon peel",
+        "measure": "1 twist of"
+      }
+    ],
+    "instructions": "Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/dgj92f1616098672.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11106",
+    "search_text": "칵테일 이름: Blackthorn\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Sweet Vermouth (1 oz), Sloe gin (1 1/2 oz), Lemon peel (1 twist of)\n제조법: Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve."
+  },
+  {
+    "id": "17210",
+    "name": "Bramble",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-Fashioned glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "4 cl"
+      },
+      {
+        "name": "lemon juice",
+        "measure": "1.5 cl"
+      },
+      {
+        "name": "Sugar syrup",
+        "measure": "1 cl"
+      },
+      {
+        "name": "Creme de Mure",
+        "measure": "1.5 cl"
+      }
+    ],
+    "instructions": "Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/twtbh51630406392.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17210",
+    "search_text": "칵테일 이름: Bramble\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-Fashioned glass\n재료와 분량: Gin (4 cl), lemon juice (1.5 cl), Sugar syrup (1 cl), Creme de Mure (1.5 cl)\n제조법: Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice."
+  },
+  {
+    "id": "178310",
+    "name": "Brooklyn",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Rye Whiskey",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Dry Vermouth",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Maraschino Liqueur",
+        "measure": "1/4 oz"
+      },
+      {
+        "name": "Angostura Bitters",
+        "measure": "3 dashes"
+      },
+      {
+        "name": "Maraschino Cherry",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/178310",
+    "search_text": "칵테일 이름: Brooklyn\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Rye Whiskey (2 oz), Dry Vermouth (1 oz), Maraschino Liqueur (1/4 oz), Angostura Bitters (3 dashes), Maraschino Cherry (1)\n제조법: Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass."
+  },
+  {
+    "id": "11202",
+    "name": "Caipirinha",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-fashioned glass",
+    "ingredients": [
+      {
+        "name": "Sugar",
+        "measure": "2 tsp"
+      },
+      {
+        "name": "Lime",
+        "measure": "1"
+      },
+      {
+        "name": "Cachaca",
+        "measure": "2 1/2 oz"
+      }
+    ],
+    "instructions": "Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cachaça.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/jgvn7p1582484435.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11202",
+    "search_text": "칵테일 이름: Caipirinha\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-fashioned glass\n재료와 분량: Sugar (2 tsp), Lime (1), Cachaca (2 1/2 oz)\n제조법: Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cachaça."
+  },
+  {
+    "id": "17185",
+    "name": "Casino",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Maraschino liqueur",
+        "measure": "1/4 tsp"
+      },
+      {
+        "name": "Lemon juice",
+        "measure": "1/4 tsp"
+      },
+      {
+        "name": "Orange bitters",
+        "measure": "2 dashes"
+      },
+      {
+        "name": "Cherry",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/1mvjxg1504348579.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17185",
+    "search_text": "칵테일 이름: Casino\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (2 oz), Maraschino liqueur (1/4 tsp), Lemon juice (1/4 tsp), Orange bitters (2 dashes), Cherry (1)\n제조법: Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw."
+  },
+  {
+    "id": "17250",
+    "name": "Corpse Reviver",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "3/4 oz"
+      },
+      {
+        "name": "Triple Sec",
+        "measure": "3/4 oz"
+      },
+      {
+        "name": "Lillet Blanc",
+        "measure": "3/4 oz"
+      },
+      {
+        "name": "Lemon Juice",
+        "measure": "3/4 oz"
+      },
+      {
+        "name": "Absinthe",
+        "measure": "1 dash"
+      }
+    ],
+    "instructions": "Shake, strain, straight up, cocktail glass rinsed with absinthe",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/gifgao1513704334.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17250",
+    "search_text": "칵테일 이름: Corpse Reviver\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (3/4 oz), Triple Sec (3/4 oz), Lillet Blanc (3/4 oz), Lemon Juice (3/4 oz), Absinthe (1 dash)\n제조법: Shake, strain, straight up, cocktail glass rinsed with absinthe"
+  },
+  {
+    "id": "17196",
+    "name": "Cosmopolitan",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1 1/4 oz"
+      },
+      {
+        "name": "Lime juice",
+        "measure": "1/4 oz"
+      },
+      {
+        "name": "Cointreau",
+        "measure": "1/4 oz"
+      },
+      {
+        "name": "Cranberry juice",
+        "measure": "1/4 cup"
+      }
+    ],
+    "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17196",
+    "search_text": "칵테일 이름: Cosmopolitan\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Vodka (1 1/4 oz), Lime juice (1/4 oz), Cointreau (1/4 oz), Cranberry juice (1/4 cup)\n제조법: Add all ingredients into cocktail shaker filled with ice. Shake well and double strain into large cocktail glass. Garnish with lime wheel."
+  },
+  {
+    "id": "11288",
+    "name": "Cuba Libre",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Light rum",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lime",
+        "measure": "Juice of 1/2"
+      },
+      {
+        "name": "Coca-Cola",
+        "measure": ""
+      }
+    ],
+    "instructions": "Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/wmkbfj1606853905.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11288",
+    "search_text": "칵테일 이름: Cuba Libre\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Light rum (2 oz), Lime (Juice of 1/2), Coca-Cola (분량 미기재)\n제조법: Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge."
+  },
+  {
+    "id": "11006",
+    "name": "Daiquiri",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Light rum",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Lime",
+        "measure": "Juice of 1/2"
+      },
+      {
+        "name": "Powdered sugar",
+        "measure": "1 tsp"
+      }
+    ],
+    "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/mrz9091589574515.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11006",
+    "search_text": "칵테일 이름: Daiquiri\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Light rum (1 1/2 oz), Lime (Juice of 1/2), Powdered sugar (1 tsp)\n제조법: Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass."
+  },
+  {
+    "id": "178334",
+    "name": "Death in the Afternoon",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Margarita glass",
+    "ingredients": [
+      {
+        "name": "Absinthe",
+        "measure": "2 shots"
+      },
+      {
+        "name": "Champagne",
+        "measure": "Top"
+      }
+    ],
+    "instructions": "Easy as you like, pour the absinthe into a chilled glass, top with champagne. Must be drunk mid afternoon for the optimum effect.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/y7s3rh1598719574.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/178334",
+    "search_text": "칵테일 이름: Death in the Afternoon\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Margarita glass\n재료와 분량: Absinthe (2 shots), Champagne (Top)\n제조법: Easy as you like, pour the absinthe into a chilled glass, top with champagne. Must be drunk mid afternoon for the optimum effect."
+  },
+  {
+    "id": "17187",
+    "name": "Derby",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "gin",
+        "measure": "6 cl"
+      },
+      {
+        "name": "Peach Bitters",
+        "measure": "2 dashes"
+      },
+      {
+        "name": "Mint",
+        "measure": "2 Fresh leaves"
+      }
+    ],
+    "instructions": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/52weey1606772672.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17187",
+    "search_text": "칵테일 이름: Derby\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: gin (6 cl), Peach Bitters (2 dashes), Mint (2 Fresh leaves)\n제조법: Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink."
+  },
+  {
+    "id": "17181",
+    "name": "Dirty Martini",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "70ml/2fl oz"
+      },
+      {
+        "name": "Dry Vermouth",
+        "measure": "1 tbsp"
+      },
+      {
+        "name": "Olive Brine",
+        "measure": "2 tbsp"
+      },
+      {
+        "name": "Lemon",
+        "measure": "1 wedge"
+      },
+      {
+        "name": "Olive",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Pour the vodka, dry vermouth and olive brine into a cocktail shaker with a handful of ice and shake well.\r\nRub the rim of a martini glass with the wedge of lemon.\r\nStrain the contents of the cocktail shaker into the glass and add the olive.\r\nA dirty Martini contains a splash of olive brine or olive juice and is typically garnished with an olive.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/vcyvpq1485083300.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17181",
+    "search_text": "칵테일 이름: Dirty Martini\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Vodka (70ml/2fl oz), Dry Vermouth (1 tbsp), Olive Brine (2 tbsp), Lemon (1 wedge), Olive (1)\n제조법: Pour the vodka, dry vermouth and olive brine into a cocktail shaker with a handful of ice and shake well.\r\nRub the rim of a martini glass with the wedge of lemon.\r\nStrain the contents of the cocktail shaker into the glass and add the olive.\r\nA dirty Martini contains a splash of olive brine or olive juice and is typically garnished with an olive."
+  },
+  {
+    "id": "11005",
+    "name": "Dry Martini",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "1 2/3 oz"
+      },
+      {
+        "name": "Dry Vermouth",
+        "measure": "1/3 oz"
+      },
+      {
+        "name": "Olive",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/6ck9yi1589574317.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11005",
+    "search_text": "칵테일 이름: Dry Martini\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (1 2/3 oz), Dry Vermouth (1/3 oz), Olive (1)\n제조법: Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive."
+  },
+  {
+    "id": "12668",
+    "name": "Egg Cream",
+    "category": "Other / Unknown",
+    "alcoholic": "Non alcoholic",
+    "glass": "Coffee mug",
+    "ingredients": [
+      {
+        "name": "Chocolate syrup",
+        "measure": "2 tblsp"
+      },
+      {
+        "name": "Milk",
+        "measure": "6 oz whole"
+      },
+      {
+        "name": "Soda water",
+        "measure": "6 oz"
+      }
+    ],
+    "instructions": "Mix syrup and milk in a fountain glass. Add soda water, serve with a straw.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/mvis731484430445.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12668",
+    "search_text": "칵테일 이름: Egg Cream\n분류: Other / Unknown\n알코올 여부: Non alcoholic\n잔 종류: Coffee mug\n재료와 분량: Chocolate syrup (2 tblsp), Milk (6 oz whole), Soda water (6 oz)\n제조법: Mix syrup and milk in a fountain glass. Add soda water, serve with a straw."
+  },
+  {
+    "id": "12910",
+    "name": "Egg Nog #4",
+    "category": "Punch / Party Drink",
+    "alcoholic": "Optional alcohol",
+    "glass": "Punch bowl",
+    "ingredients": [
+      {
+        "name": "Egg yolk",
+        "measure": "6"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1/4 cup"
+      },
+      {
+        "name": "Milk",
+        "measure": "2 cups"
+      },
+      {
+        "name": "Light rum",
+        "measure": "1/2 cup"
+      },
+      {
+        "name": "Bourbon",
+        "measure": "1/2 cup"
+      },
+      {
+        "name": "Vanilla extract",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Salt",
+        "measure": "1/4 tsp"
+      },
+      {
+        "name": "Whipping cream",
+        "measure": "1 cup"
+      },
+      {
+        "name": "Egg white",
+        "measure": "6"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1/4 cup"
+      },
+      {
+        "name": "Nutmeg",
+        "measure": "Ground"
+      }
+    ],
+    "instructions": "In a small mixer bowl beat egg yolks till blended. Gradually add 1/4 cup sugar, beating at high speed till thick and lemon colored. Stir in milk, stir in rum, bourbon, vanilla, and salt. Chill thoroughly. Whip cream. Wash beaters well. In a large mixer bowl beat egg whites till soft peaks form. Gradually add remaining 1/4 cup sugar, beating to stiff peaks. Fold yolk mixture and whipped cream into egg whites. Serve immediately. Sprinkle nutmeg over each serving. Serve in a punch bowl or another big bowl. NOTE: For a nonalcoholic eggnog, prepare Eggnog as above, except omit the bourbon and rum and increase the milk to 3 cups.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/wpspsy1468875747.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12910",
+    "search_text": "칵테일 이름: Egg Nog #4\n분류: Punch / Party Drink\n알코올 여부: Optional alcohol\n잔 종류: Punch bowl\n재료와 분량: Egg yolk (6), Sugar (1/4 cup), Milk (2 cups), Light rum (1/2 cup), Bourbon (1/2 cup), Vanilla extract (1 tsp), Salt (1/4 tsp), Whipping cream (1 cup), Egg white (6), Sugar (1/4 cup), Nutmeg (Ground)\n제조법: In a small mixer bowl beat egg yolks till blended. Gradually add 1/4 cup sugar, beating at high speed till thick and lemon colored. Stir in milk, stir in rum, bourbon, vanilla, and salt. Chill thoroughly. Whip cream. Wash beaters well. In a large mixer bowl beat egg whites till soft peaks form. Gradually add remaining 1/4 cup sugar, beating to stiff peaks. Fold yolk mixture and whipped cream into egg whites. Serve immediately. Sprinkle nutmeg over each serving. Serve in a punch bowl or another big bowl. NOTE: For a nonalcoholic eggnog, prepare Eggnog as above, except omit the bourbon and rum and increase the milk to 3 cups."
+  },
+  {
+    "id": "17197",
+    "name": "French 75",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Sugar",
+        "measure": "2 tsp superfine"
+      },
+      {
+        "name": "Lemon juice",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Champagne",
+        "measure": "4 oz Chilled"
+      },
+      {
+        "name": "Orange",
+        "measure": "1"
+      },
+      {
+        "name": "Maraschino cherry",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/hrxfbl1606773109.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17197",
+    "search_text": "칵테일 이름: French 75\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Collins glass\n재료와 분량: Gin (1 1/2 oz), Sugar (2 tsp superfine), Lemon juice (1 1/2 oz), Champagne (4 oz Chilled), Orange (1), Maraschino cherry (1)\n제조법: Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently."
+  },
+  {
+    "id": "17213",
+    "name": "French Martini",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "4.5 cl"
+      },
+      {
+        "name": "Raspberry Liqueur",
+        "measure": "1.5 cl"
+      },
+      {
+        "name": "pineapple juice",
+        "measure": "1.5 cl"
+      }
+    ],
+    "instructions": "Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/clth721504373134.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17213",
+    "search_text": "칵테일 이름: French Martini\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Vodka (4.5 cl), Raspberry Liqueur (1.5 cl), pineapple juice (1.5 cl)\n제조법: Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink."
+  },
+  {
+    "id": "178352",
+    "name": "Frosé",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Rose",
+        "measure": "750 ml"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1/2 cup"
+      },
+      {
+        "name": "Strawberries",
+        "measure": "8 oz"
+      },
+      {
+        "name": "Lemon Juice",
+        "measure": "2-3 oz"
+      }
+    ],
+    "instructions": "Step 1\nPour rosé into a 13x9\" pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours.\n\nStep 2\nMeanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.\n\nStep 3\nScrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes.\n\nStep 4\nBlend again until frosé is slushy. Divide among glasses.\n\nStep 5\nDo Ahead: Rosé can be frozen 1 week ahead.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/b4cadp1619695347.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/178352",
+    "search_text": "칵테일 이름: Frosé\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Rose (750 ml), Sugar (1/2 cup), Strawberries (8 oz), Lemon Juice (2-3 oz)\n제조법: Step 1\nPour rosé into a 13x9\" pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours.\n\nStep 2\nMeanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.\n\nStep 3\nScrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes.\n\nStep 4\nBlend again until frosé is slushy. Divide among glasses.\n\nStep 5\nDo Ahead: Rosé can be frozen 1 week ahead."
+  },
+  {
+    "id": "11387",
+    "name": "Frozen Daiquiri",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Champagne flute",
+    "ingredients": [
+      {
+        "name": "Light rum",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Triple sec",
+        "measure": "1 tblsp"
+      },
+      {
+        "name": "Lime juice",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Cherry",
+        "measure": "1"
+      },
+      {
+        "name": "Ice",
+        "measure": "1 cup crushed"
+      }
+    ],
+    "instructions": "Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/7oyrj91504884412.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11387",
+    "search_text": "칵테일 이름: Frozen Daiquiri\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Champagne flute\n재료와 분량: Light rum (1 1/2 oz), Triple sec (1 tblsp), Lime juice (1 1/2 oz), Sugar (1 tsp), Cherry (1), Ice (1 cup crushed)\n제조법: Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve."
+  },
+  {
+    "id": "17255",
+    "name": "Gimlet",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Martini Glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "2 1/2 oz"
+      },
+      {
+        "name": "Lime Juice",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Sugar Syrup",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Lime",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Add all the ingredients to a shaker and fill with ice.\r\n\r\nShake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.\r\n\r\nGarnish with a lime wheel.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/3xgldt1513707271.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17255",
+    "search_text": "칵테일 이름: Gimlet\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Martini Glass\n재료와 분량: Gin (2 1/2 oz), Lime Juice (1/2 oz), Sugar Syrup (1/2 oz), Lime (1)\n제조법: Add all the ingredients to a shaker and fill with ice.\r\n\r\nShake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.\r\n\r\nGarnish with a lime wheel."
+  },
+  {
+    "id": "11410",
+    "name": "Gin Fizz",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lemon",
+        "measure": "Juice of 1/2"
+      },
+      {
+        "name": "Powdered sugar",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Carbonated water",
+        "measure": ""
+      }
+    ],
+    "instructions": "Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/drtihp1606768397.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11410",
+    "search_text": "칵테일 이름: Gin Fizz\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Gin (2 oz), Lemon (Juice of 1/2), Powdered sugar (1 tsp), Carbonated water (분량 미기재)\n제조법: Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water."
+  },
+  {
+    "id": "11417",
+    "name": "Gin Sour",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Whiskey sour glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lemon juice",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1/2 tsp superfine"
+      },
+      {
+        "name": "Orange",
+        "measure": "1"
+      },
+      {
+        "name": "Maraschino cherry",
+        "measure": "1"
+      }
+    ],
+    "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/noxp7e1606769224.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11417",
+    "search_text": "칵테일 이름: Gin Sour\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Whiskey sour glass\n재료와 분량: Gin (2 oz), Lemon juice (1 oz), Sugar (1/2 tsp superfine), Orange (1), Maraschino cherry (1)\n제조법: In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry."
+  },
+  {
+    "id": "12944",
+    "name": "Gluehwein",
+    "category": "Punch / Party Drink",
+    "alcoholic": "Optional alcohol",
+    "glass": "Irish coffee cup",
+    "ingredients": [
+      {
+        "name": "Red wine",
+        "measure": "1 L"
+      },
+      {
+        "name": "Water",
+        "measure": "125 ml"
+      },
+      {
+        "name": "Sugar",
+        "measure": "60 gr"
+      },
+      {
+        "name": "Cinnamon",
+        "measure": "1"
+      },
+      {
+        "name": "Cloves",
+        "measure": "3"
+      },
+      {
+        "name": "Lemon peel",
+        "measure": "1 tblsp"
+      }
+    ],
+    "instructions": "Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/vuxwvt1468875418.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12944",
+    "search_text": "칵테일 이름: Gluehwein\n분류: Punch / Party Drink\n알코올 여부: Optional alcohol\n잔 종류: Irish coffee cup\n재료와 분량: Red wine (1 L), Water (125 ml), Sugar (60 gr), Cinnamon (1), Cloves (3), Lemon peel (1 tblsp)\n제조법: Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup."
+  },
+  {
+    "id": "11423",
+    "name": "Godfather",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-fashioned glass",
+    "ingredients": [
+      {
+        "name": "Scotch",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Amaretto",
+        "measure": "3/4 oz"
+      }
+    ],
+    "instructions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/e5zgao1582582378.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11423",
+    "search_text": "칵테일 이름: Godfather\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-fashioned glass\n재료와 분량: Scotch (1 1/2 oz), Amaretto (3/4 oz)\n제조법: Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently."
+  },
+  {
+    "id": "11424",
+    "name": "Godmother",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-fashioned glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Amaretto",
+        "measure": "3/4 oz"
+      }
+    ],
+    "instructions": "Pour vodka and amaretto into an old-fashioned glass over ice and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/quksqg1582582597.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11424",
+    "search_text": "칵테일 이름: Godmother\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-fashioned glass\n재료와 분량: Vodka (1 1/2 oz), Amaretto (3/4 oz)\n제조법: Pour vodka and amaretto into an old-fashioned glass over ice and serve."
+  },
+  {
+    "id": "17200",
+    "name": "Grasshopper",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Green Creme de Menthe",
+        "measure": "3/4 oz"
+      },
+      {
+        "name": "Creme de Cacao",
+        "measure": "3/4 oz white"
+      },
+      {
+        "name": "Light cream",
+        "measure": "3/4 oz"
+      }
+    ],
+    "instructions": "Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17200",
+    "search_text": "칵테일 이름: Grasshopper\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Green Creme de Menthe (3/4 oz), Creme de Cacao (3/4 oz white), Light cream (3/4 oz)\n제조법: Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass."
+  },
+  {
+    "id": "17252",
+    "name": "Greyhound",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Grapefruit Juice",
+        "measure": "3 oz"
+      }
+    ],
+    "instructions": "Add the vodka to a Collins glass filled with ice.\nTop with grapefruit juice and stir.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17252",
+    "search_text": "칵테일 이름: Greyhound\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Collins glass\n재료와 분량: Vodka (1 1/2 oz), Grapefruit Juice (3 oz)\n제조법: Add the vodka to a Collins glass filled with ice.\nTop with grapefruit juice and stir."
+  },
+  {
+    "id": "11462",
+    "name": "Harvey Wallbanger",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Galliano",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Orange juice",
+        "measure": "4 oz"
+      }
+    ],
+    "instructions": "Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/7os4gs1606854357.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11462",
+    "search_text": "칵테일 이름: Harvey Wallbanger\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Collins glass\n재료와 분량: Vodka (1 oz), Galliano (1/2 oz), Orange juice (4 oz)\n제조법: Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve."
+  },
+  {
+    "id": "17201",
+    "name": "Hemingway Special",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Rum",
+        "measure": "12 parts"
+      },
+      {
+        "name": "Grapefruit Juice",
+        "measure": "8 parts"
+      },
+      {
+        "name": "Maraschino Liqueur",
+        "measure": "3 parts"
+      },
+      {
+        "name": "Lime Juice",
+        "measure": "3 parts"
+      }
+    ],
+    "instructions": "Pour all ingredients into a shaker with ice. Shake.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/jfcvps1504369888.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17201",
+    "search_text": "칵테일 이름: Hemingway Special\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Rum (12 parts), Grapefruit Juice (8 parts), Maraschino Liqueur (3 parts), Lime Juice (3 parts)\n제조법: Pour all ingredients into a shaker with ice. Shake."
+  },
+  {
+    "id": "17202",
+    "name": "Horse's Neck",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Lemon peel",
+        "measure": "1 long strip"
+      },
+      {
+        "name": "Brandy",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Ginger ale",
+        "measure": "5 oz"
+      },
+      {
+        "name": "Bitters",
+        "measure": "2 dashes"
+      }
+    ],
+    "instructions": "Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/006k4e1504370092.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17202",
+    "search_text": "칵테일 이름: Horse's Neck\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Lemon peel (1 long strip), Brandy (2 oz), Ginger ale (5 oz), Bitters (2 dashes)\n제조법: Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter."
+  },
+  {
+    "id": "178345",
+    "name": "Hot Toddy",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Irish coffee cup",
+    "ingredients": [
+      {
+        "name": "Whiskey",
+        "measure": "50 ml"
+      },
+      {
+        "name": "Honey",
+        "measure": "15 ml"
+      },
+      {
+        "name": "Cinnamon",
+        "measure": "1"
+      },
+      {
+        "name": "lemon",
+        "measure": "1"
+      },
+      {
+        "name": "Cloves",
+        "measure": "2"
+      }
+    ],
+    "instructions": "STEP 1\r\nWhisk the whisky and honey together and split between 2 heatproof glasses. Add half of the cinnamon stick to each, then top up with 200ml boiling water.\r\n\r\nSTEP 2\r\nAdd a splash of lemon juice to each, then taste and add more to your preference. Finish each with a slice of lemon, studded with a clove, and serve immediately.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/ggx0lv1613942306.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/178345",
+    "search_text": "칵테일 이름: Hot Toddy\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Irish coffee cup\n재료와 분량: Whiskey (50 ml), Honey (15 ml), Cinnamon (1), lemon (1), Cloves (2)\n제조법: STEP 1\r\nWhisk the whisky and honey together and split between 2 heatproof glasses. Add half of the cinnamon stick to each, then top up with 200ml boiling water.\r\n\r\nSTEP 2\r\nAdd a splash of lemon juice to each, then taste and add more to your preference. Finish each with a slice of lemon, studded with a clove, and serve immediately."
+  },
+  {
+    "id": "13971",
+    "name": "Irish Coffee",
+    "category": "Coffee / Tea",
+    "alcoholic": "Alcoholic",
+    "glass": "Irish coffee cup",
+    "ingredients": [
+      {
+        "name": "Irish whiskey",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Coffee",
+        "measure": "8 oz"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Whipped cream",
+        "measure": "1 tblsp"
+      }
+    ],
+    "instructions": "Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/sywsqw1439906999.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/13971",
+    "search_text": "칵테일 이름: Irish Coffee\n분류: Coffee / Tea\n알코올 여부: Alcoholic\n잔 종류: Irish coffee cup\n재료와 분량: Irish whiskey (1 1/2 oz), Coffee (8 oz), Sugar (1 tsp), Whipped cream (1 tblsp)\n제조법: Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot."
+  },
+  {
+    "id": "11580",
+    "name": "John Collins",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins glass",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lemon juice",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1 tsp superfine"
+      },
+      {
+        "name": "Club soda",
+        "measure": "3 oz"
+      },
+      {
+        "name": "Maraschino cherry",
+        "measure": "1"
+      },
+      {
+        "name": "Orange",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/0t4bv71606854479.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11580",
+    "search_text": "칵테일 이름: John Collins\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Collins glass\n재료와 분량: Bourbon (2 oz), Lemon juice (1 oz), Sugar (1 tsp superfine), Club soda (3 oz), Maraschino cherry (1), Orange (1)\n제조법: Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters."
+  },
+  {
+    "id": "11600",
+    "name": "Kamikaze",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Triple sec",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Lime juice",
+        "measure": "1 oz"
+      }
+    ],
+    "instructions": "Shake all ingredients together with ice. Strain into glass, garnish and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/d7ff7u1606855412.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11600",
+    "search_text": "칵테일 이름: Kamikaze\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Vodka (1 oz), Triple sec (1 oz), Lime juice (1 oz)\n제조법: Shake all ingredients together with ice. Strain into glass, garnish and serve."
+  },
+  {
+    "id": "12764",
+    "name": "Karsk",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Coffee",
+        "measure": "1 part"
+      },
+      {
+        "name": "Grain alcohol",
+        "measure": "2 parts"
+      }
+    ],
+    "instructions": "Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/808mxk1487602471.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12764",
+    "search_text": "칵테일 이름: Karsk\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Coffee (1 part), Grain alcohol (2 parts)\n제조법: Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality."
+  },
+  {
+    "id": "13837",
+    "name": "Kir Royale",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Champagne Flute",
+    "ingredients": [
+      {
+        "name": "Creme de Cassis",
+        "measure": "1 part"
+      },
+      {
+        "name": "Champagne",
+        "measure": "5 parts"
+      }
+    ],
+    "instructions": "Pour Creme de cassis in glass, gently pour champagne on top",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/yt9i7n1504370388.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/13837",
+    "search_text": "칵테일 이름: Kir Royale\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Champagne Flute\n재료와 분량: Creme de Cassis (1 part), Champagne (5 parts)\n제조법: Pour Creme de cassis in glass, gently pour champagne on top"
+  },
+  {
+    "id": "14366",
+    "name": "Lemon Drop",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1 1/2 shot"
+      },
+      {
+        "name": "Cointreau",
+        "measure": "1 1/2 shot"
+      },
+      {
+        "name": "Lemon",
+        "measure": "Juice of 1 wedge"
+      }
+    ],
+    "instructions": "Shake and strain into a chilled cocktail glass rimmed with sugar.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/mtpxgk1504373297.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/14366",
+    "search_text": "칵테일 이름: Lemon Drop\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Vodka (1 1/2 shot), Cointreau (1 1/2 shot), Lemon (Juice of 1 wedge)\n제조법: Shake and strain into a chilled cocktail glass rimmed with sugar."
+  },
+  {
+    "id": "12704",
+    "name": "Limeade",
+    "category": "Other / Unknown",
+    "alcoholic": "Non alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Lime",
+        "measure": "Juice of 1"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1 tblsp"
+      },
+      {
+        "name": "Soda water",
+        "measure": "(seltzer water)"
+      },
+      {
+        "name": "Lime peel",
+        "measure": ""
+      }
+    ],
+    "instructions": "In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/5jdp5r1487603680.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12704",
+    "search_text": "칵테일 이름: Limeade\n분류: Other / Unknown\n알코올 여부: Non alcoholic\n잔 종류: Highball glass\n재료와 분량: Lime (Juice of 1), Sugar (1 tblsp), Soda water ((seltzer water)), Lime peel (분량 미기재)\n제조법: In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out."
+  },
+  {
+    "id": "17204",
+    "name": "Long Island Iced Tea",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Tequila",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Light rum",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Gin",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Coca-Cola",
+        "measure": "1 dash"
+      },
+      {
+        "name": "Lemon peel",
+        "measure": "Twist of"
+      }
+    ],
+    "instructions": "Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/wx7hsg1504370510.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17204",
+    "search_text": "칵테일 이름: Long Island Iced Tea\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Vodka (1/2 oz), Tequila (1/2 oz), Light rum (1/2 oz), Gin (1/2 oz), Coca-Cola (1 dash), Lemon peel (Twist of)\n제조법: Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist."
+  },
+  {
+    "id": "11002",
+    "name": "Long Island Tea",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Light rum",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Gin",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Tequila",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Lemon",
+        "measure": "Juice of 1/2"
+      },
+      {
+        "name": "Coca-Cola",
+        "measure": "1 splash"
+      }
+    ],
+    "instructions": "Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/nkwr4c1606770558.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11002",
+    "search_text": "칵테일 이름: Long Island Tea\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Vodka (1/2 oz), Light rum (1/2 oz), Gin (1/2 oz), Tequila (1/2 oz), Lemon (Juice of 1/2), Coca-Cola (1 splash)\n제조법: Combine all ingredients (except cola) and pour over ice in a highball glass. Add the splash of cola for color. Decorate with a slice of lemon and serve."
+  },
+  {
+    "id": "13196",
+    "name": "Long vodka",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "5 cl"
+      },
+      {
+        "name": "Lime",
+        "measure": "1/2"
+      },
+      {
+        "name": "Angostura bitters",
+        "measure": "4 dashes"
+      },
+      {
+        "name": "Tonic water",
+        "measure": "1 dl Schweppes"
+      },
+      {
+        "name": "Ice",
+        "measure": "4"
+      }
+    ],
+    "instructions": "Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/9179i01503565212.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/13196",
+    "search_text": "칵테일 이름: Long vodka\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Vodka (5 cl), Lime (1/2), Angostura bitters (4 dashes), Tonic water (1 dl Schweppes), Ice (4)\n제조법: Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka"
+  },
+  {
+    "id": "11690",
+    "name": "Mai Tai",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins glass",
+    "ingredients": [
+      {
+        "name": "Light rum",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Orgeat syrup",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Triple sec",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Sweet and sour",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Cherry",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11690",
+    "search_text": "칵테일 이름: Mai Tai\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Collins glass\n재료와 분량: Light rum (1 oz), Orgeat syrup (1/2 oz), Triple sec (1/2 oz), Sweet and sour (1 1/2 oz), Cherry (1)\n제조법: Shake all ingredients with ice. Strain into glass. Garnish and serve with straw."
+  },
+  {
+    "id": "11008",
+    "name": "Manhattan",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Sweet Vermouth",
+        "measure": "3/4 oz"
+      },
+      {
+        "name": "Bourbon",
+        "measure": "2 1/2 oz Blended"
+      },
+      {
+        "name": "Angostura bitters",
+        "measure": "dash"
+      },
+      {
+        "name": "Ice",
+        "measure": "2 or 3"
+      },
+      {
+        "name": "Maraschino cherry",
+        "measure": "1"
+      },
+      {
+        "name": "Orange peel",
+        "measure": "1 twist of"
+      }
+    ],
+    "instructions": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/yk70e31606771240.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11008",
+    "search_text": "칵테일 이름: Manhattan\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Sweet Vermouth (3/4 oz), Bourbon (2 1/2 oz Blended), Angostura bitters (dash), Ice (2 or 3), Maraschino cherry (1), Orange peel (1 twist of)\n제조법: Stirred over ice, strained into a chilled glass, garnished, and served up."
+  },
+  {
+    "id": "11007",
+    "name": "Margarita",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Triple sec",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Lime juice",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Salt",
+        "measure": ""
+      }
+    ],
+    "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11007",
+    "search_text": "칵테일 이름: Margarita\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Tequila (1 1/2 oz), Triple sec (1/2 oz), Lime juice (1 oz), Salt (분량 미기재)\n제조법: Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass."
+  },
+  {
+    "id": "11728",
+    "name": "Martini",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "1 2/3 oz"
+      },
+      {
+        "name": "Dry Vermouth",
+        "measure": "1/3 oz"
+      },
+      {
+        "name": "Olive",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11728",
+    "search_text": "칵테일 이름: Martini\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (1 2/3 oz), Dry Vermouth (1/3 oz), Olive (1)\n제조법: Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive."
+  },
+  {
+    "id": "17188",
+    "name": "Mary Pickford",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Light rum",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Pineapple juice",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Maraschino liqueur",
+        "measure": "1/2 tsp"
+      },
+      {
+        "name": "Grenadine",
+        "measure": "1/2 tsp"
+      },
+      {
+        "name": "Maraschino cherry",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Shake and strain into a chilled large cocktail glass",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/f9erqb1504350557.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17188",
+    "search_text": "칵테일 이름: Mary Pickford\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Light rum (1 1/2 oz), Pineapple juice (1 oz), Maraschino liqueur (1/2 tsp), Grenadine (1/2 tsp), Maraschino cherry (1)\n제조법: Shake and strain into a chilled large cocktail glass"
+  },
+  {
+    "id": "12774",
+    "name": "Masala Chai",
+    "category": "Coffee / Tea",
+    "alcoholic": "Non alcoholic",
+    "glass": "Coffee Mug",
+    "ingredients": [
+      {
+        "name": "Water",
+        "measure": "2 cups"
+      },
+      {
+        "name": "Tea",
+        "measure": "3-4 tsp"
+      },
+      {
+        "name": "Ginger",
+        "measure": "1 chunk dried"
+      },
+      {
+        "name": "Cardamom",
+        "measure": "3-4 crushed"
+      },
+      {
+        "name": "Cloves",
+        "measure": "3"
+      },
+      {
+        "name": "Cinnamon",
+        "measure": "1 piece"
+      },
+      {
+        "name": "Black pepper",
+        "measure": "1-2 whole"
+      },
+      {
+        "name": "Sugar",
+        "measure": "to taste"
+      },
+      {
+        "name": "Milk",
+        "measure": "to taste"
+      }
+    ],
+    "instructions": "Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That's IT.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/uyrpww1441246384.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12774",
+    "search_text": "칵테일 이름: Masala Chai\n분류: Coffee / Tea\n알코올 여부: Non alcoholic\n잔 종류: Coffee Mug\n재료와 분량: Water (2 cups), Tea (3-4 tsp), Ginger (1 chunk dried), Cardamom (3-4 crushed), Cloves (3), Cinnamon (1 piece), Black pepper (1-2 whole), Sugar (to taste), Milk (to taste)\n제조법: Bring 2 cups of water to boil. Add all the ingredients and boil again for about 15 seconds. Let stand for a minute. Warm milk in a pot. Filter tea into cups. Add milk and sugar. That's IT."
+  },
+  {
+    "id": "12776",
+    "name": "Melya",
+    "category": "Coffee / Tea",
+    "alcoholic": "Non alcoholic",
+    "glass": "Coffee mug",
+    "ingredients": [
+      {
+        "name": "Espresso",
+        "measure": ""
+      },
+      {
+        "name": "Honey",
+        "measure": "Unsweetened"
+      },
+      {
+        "name": "Cocoa powder",
+        "measure": ""
+      }
+    ],
+    "instructions": "Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/xwtptq1441247579.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12776",
+    "search_text": "칵테일 이름: Melya\n분류: Coffee / Tea\n알코올 여부: Non alcoholic\n잔 종류: Coffee mug\n재료와 분량: Espresso (분량 미기재), Honey (Unsweetened), Cocoa powder (분량 미기재)\n제조법: Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream."
+  },
+  {
+    "id": "13936",
+    "name": "Miami Vice",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "151 proof rum",
+        "measure": "5 oz Bacardi"
+      },
+      {
+        "name": "Pina colada mix",
+        "measure": "frozen"
+      },
+      {
+        "name": "Daiquiri mix",
+        "measure": "frozen"
+      }
+    ],
+    "instructions": "First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiquiri with 2.5 oz. of rum with ice. Third: While frozen, add pina colda mix then daiquiri mix in glass (Making sure they do not get mixed together).",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/qvuyqw1441208955.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/13936",
+    "search_text": "칵테일 이름: Miami Vice\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: 151 proof rum (5 oz Bacardi), Pina colada mix (frozen), Daiquiri mix (frozen)\n제조법: First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiquiri with 2.5 oz. of rum with ice. Third: While frozen, add pina colda mix then daiquiri mix in glass (Making sure they do not get mixed together)."
+  },
+  {
+    "id": "178343",
+    "name": "Michelada",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Pint glass",
+    "ingredients": [
+      {
+        "name": "Beer",
+        "measure": "4 oz"
+      },
+      {
+        "name": "Tomato Juice",
+        "measure": "4 oz"
+      },
+      {
+        "name": "Lime Juice",
+        "measure": "1 tblsp"
+      },
+      {
+        "name": "Hot Sauce",
+        "measure": "Dash"
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "measure": "Dash"
+      },
+      {
+        "name": "Soy Sauce",
+        "measure": "Dash"
+      }
+    ],
+    "instructions": "Mix the beer with tomato juice, freshly squeezed lime juice, and Worcestershire sauce, teriyaki sauce, soy sauce, or hot sauce.\r\nServed In a chilled, salt-rimmed glass",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/u736bd1605907086.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/178343",
+    "search_text": "칵테일 이름: Michelada\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Pint glass\n재료와 분량: Beer (4 oz), Tomato Juice (4 oz), Lime Juice (1 tblsp), Hot Sauce (Dash), Worcestershire Sauce (Dash), Soy Sauce (Dash)\n제조법: Mix the beer with tomato juice, freshly squeezed lime juice, and Worcestershire sauce, teriyaki sauce, soy sauce, or hot sauce.\r\nServed In a chilled, salt-rimmed glass"
+  },
+  {
+    "id": "17205",
+    "name": "Mimosa",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Champagne flute",
+    "ingredients": [
+      {
+        "name": "Champagne",
+        "measure": "Chilled"
+      },
+      {
+        "name": "Orange juice",
+        "measure": "2 oz"
+      }
+    ],
+    "instructions": "Ensure both ingredients are well chilled, then mix into the glass. Serve cold.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17205",
+    "search_text": "칵테일 이름: Mimosa\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Champagne flute\n재료와 분량: Champagne (Chilled), Orange juice (2 oz)\n제조법: Ensure both ingredients are well chilled, then mix into the glass. Serve cold."
+  },
+  {
+    "id": "17206",
+    "name": "Mint Julep",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins glass",
+    "ingredients": [
+      {
+        "name": "Mint",
+        "measure": "4 fresh"
+      },
+      {
+        "name": "Bourbon",
+        "measure": "2 1/2 oz"
+      },
+      {
+        "name": "Powdered sugar",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Water",
+        "measure": "2 tsp"
+      }
+    ],
+    "instructions": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/squyyq1439907312.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17206",
+    "search_text": "칵테일 이름: Mint Julep\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Collins glass\n재료와 분량: Mint (4 fresh), Bourbon (2 1/2 oz), Powdered sugar (1 tsp), Water (2 tsp)\n제조법: In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig."
+  },
+  {
+    "id": "11000",
+    "name": "Mojito",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Light rum",
+        "measure": "2-3 oz"
+      },
+      {
+        "name": "Lime",
+        "measure": "Juice of 1"
+      },
+      {
+        "name": "Sugar",
+        "measure": "2 tsp"
+      },
+      {
+        "name": "Mint",
+        "measure": "2-4"
+      },
+      {
+        "name": "Soda water",
+        "measure": ""
+      }
+    ],
+    "instructions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11000",
+    "search_text": "칵테일 이름: Mojito\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Light rum (2-3 oz), Lime (Juice of 1), Sugar (2 tsp), Mint (2-4), Soda water (분량 미기재)\n제조법: Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw."
+  },
+  {
+    "id": "17189",
+    "name": "Monkey Gland",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Benedictine",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Orange juice",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Grenadine",
+        "measure": "1 tsp"
+      }
+    ],
+    "instructions": "Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/94psp81504350690.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17189",
+    "search_text": "칵테일 이름: Monkey Gland\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (2 oz), Benedictine (1 tsp), Orange juice (1/2 oz), Grenadine (1 tsp)\n제조법: Shake well over ice cubes in a shaker, strain into a chilled cocktail glass."
+  },
+  {
+    "id": "11009",
+    "name": "Moscow Mule",
+    "category": "Punch / Party Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Copper Mug",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lime juice",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Ginger ale",
+        "measure": "8 oz"
+      }
+    ],
+    "instructions": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11009",
+    "search_text": "칵테일 이름: Moscow Mule\n분류: Punch / Party Drink\n알코올 여부: Alcoholic\n잔 종류: Copper Mug\n재료와 분량: Vodka (2 oz), Lime juice (2 oz), Ginger ale (8 oz)\n제조법: Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish."
+  },
+  {
+    "id": "12988",
+    "name": "Mulled Wine",
+    "category": "Punch / Party Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins Glass",
+    "ingredients": [
+      {
+        "name": "Water",
+        "measure": "3 cups"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1 cup"
+      },
+      {
+        "name": "Cloves",
+        "measure": "12"
+      },
+      {
+        "name": "Cinnamon",
+        "measure": "2"
+      },
+      {
+        "name": "Lemon peel",
+        "measure": "1"
+      },
+      {
+        "name": "Red wine",
+        "measure": "750 ml"
+      },
+      {
+        "name": "Brandy",
+        "measure": "1/4 cup"
+      }
+    ],
+    "instructions": "Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a \"coffee temperature\" (DO NOT BOIL) then add the brandy.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12988",
+    "search_text": "칵테일 이름: Mulled Wine\n분류: Punch / Party Drink\n알코올 여부: Alcoholic\n잔 종류: Collins Glass\n재료와 분량: Water (3 cups), Sugar (1 cup), Cloves (12), Cinnamon (2), Lemon peel (1), Red wine (750 ml), Brandy (1/4 cup)\n제조법: Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a \"coffee temperature\" (DO NOT BOIL) then add the brandy."
+  },
+  {
+    "id": "11003",
+    "name": "Negroni",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-fashioned glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Campari",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Sweet Vermouth",
+        "measure": "1 oz"
+      }
+    ],
+    "instructions": "Stir into glass over ice, garnish and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11003",
+    "search_text": "칵테일 이름: Negroni\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-fashioned glass\n재료와 분량: Gin (1 oz), Campari (1 oz), Sweet Vermouth (1 oz)\n제조법: Stir into glass over ice, garnish and serve."
+  },
+  {
+    "id": "11844",
+    "name": "New York Sour",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Whiskey sour glass",
+    "ingredients": [
+      {
+        "name": "Blended whiskey",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lemon",
+        "measure": "Juice of 1/2"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Red wine",
+        "measure": "(Claret)"
+      },
+      {
+        "name": "Lemon",
+        "measure": ""
+      },
+      {
+        "name": "Cherry",
+        "measure": ""
+      }
+    ],
+    "instructions": "Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11844",
+    "search_text": "칵테일 이름: New York Sour\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Whiskey sour glass\n재료와 분량: Blended whiskey (2 oz), Lemon (Juice of 1/2), Sugar (1 tsp), Red wine ((Claret)), Lemon (분량 미기재), Cherry (분량 미기재)\n제조법: Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve."
+  },
+  {
+    "id": "178371",
+    "name": "Old Cuban",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "White Rum",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Sugar Syrup",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Lime Juice",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Angostura Bitters",
+        "measure": "2 dashes"
+      },
+      {
+        "name": "Prosecco",
+        "measure": "2 oz"
+      }
+    ],
+    "instructions": "Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/eo8gfx1699022995.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/178371",
+    "search_text": "칵테일 이름: Old Cuban\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: White Rum (2 oz), Sugar Syrup (1 oz), Lime Juice (1 oz), Angostura Bitters (2 dashes), Prosecco (2 oz)\n제조법: Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco."
+  },
+  {
+    "id": "11001",
+    "name": "Old Fashioned",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-fashioned glass",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "measure": "4.5 cL"
+      },
+      {
+        "name": "Angostura bitters",
+        "measure": "2 dashes"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1 cube"
+      },
+      {
+        "name": "Water",
+        "measure": "dash"
+      }
+    ],
+    "instructions": "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.\r\nFill the glass with ice cubes and add whiskey.\r\n\r\nGarnish with orange twist, and a cocktail cherry.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11001",
+    "search_text": "칵테일 이름: Old Fashioned\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Old-fashioned glass\n재료와 분량: Bourbon (4.5 cL), Angostura bitters (2 dashes), Sugar (1 cube), Water (dash)\n제조법: Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.\r\nFill the glass with ice cubes and add whiskey.\r\n\r\nGarnish with orange twist, and a cocktail cherry."
+  },
+  {
+    "id": "17827",
+    "name": "Old Pal",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Nick and Nora Glass",
+    "ingredients": [
+      {
+        "name": "Rye whiskey",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Campari",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Dry Vermouth",
+        "measure": "1 oz"
+      }
+    ],
+    "instructions": "Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/x03td31521761009.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17827",
+    "search_text": "칵테일 이름: Old Pal\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Nick and Nora Glass\n재료와 분량: Rye whiskey (2 oz), Campari (1 oz), Dry Vermouth (1 oz)\n제조법: Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel."
+  },
+  {
+    "id": "15330",
+    "name": "Orange Crush",
+    "category": "Shot",
+    "alcoholic": "Alcoholic",
+    "glass": "Shot glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Triple sec",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Orange juice",
+        "measure": "1 oz"
+      }
+    ],
+    "instructions": "Add all ingredients to tumbler-Pour as shot",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/zvoics1504885926.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/15330",
+    "search_text": "칵테일 이름: Orange Crush\n분류: Shot\n알코올 여부: Alcoholic\n잔 종류: Shot glass\n재료와 분량: Vodka (1 oz), Triple sec (1 oz), Orange juice (1 oz)\n제조법: Add all ingredients to tumbler-Pour as shot"
+  },
+  {
+    "id": "16995",
+    "name": "Orange Whip",
+    "category": "Other / Unknown",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins Glass",
+    "ingredients": [
+      {
+        "name": "Orange juice",
+        "measure": "4 oz"
+      },
+      {
+        "name": "Rum",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Vodka",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Cream",
+        "measure": "1 package"
+      },
+      {
+        "name": "Ice",
+        "measure": "Over"
+      }
+    ],
+    "instructions": "Pour ingredients over ice and stir.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/ttyrxr1454514759.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/16995",
+    "search_text": "칵테일 이름: Orange Whip\n분류: Other / Unknown\n알코올 여부: Alcoholic\n잔 종류: Collins Glass\n재료와 분량: Orange juice (4 oz), Rum (1 oz), Vodka (1 oz), Cream (1 package), Ice (Over)\n제조법: Pour ingredients over ice and stir."
+  },
+  {
+    "id": "11872",
+    "name": "Orgasm",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Creme de Cacao",
+        "measure": "1/2 oz white"
+      },
+      {
+        "name": "Amaretto",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Triple sec",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Vodka",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Light cream",
+        "measure": "1 oz"
+      }
+    ],
+    "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/vr6kle1504886114.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11872",
+    "search_text": "칵테일 이름: Orgasm\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Creme de Cacao (1/2 oz white), Amaretto (1/2 oz), Triple sec (1/2 oz), Vodka (1/2 oz), Light cream (1 oz)\n제조법: Shake all ingredients with ice, strain into a chilled cocktail glass, and serve."
+  },
+  {
+    "id": "17253",
+    "name": "Paloma",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins glass",
+    "ingredients": [
+      {
+        "name": "Grape Soda",
+        "measure": "3 oz"
+      },
+      {
+        "name": "Tequila",
+        "measure": "1 1/2 oz"
+      }
+    ],
+    "instructions": "Stir together and serve over ice.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/samm5j1513706393.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17253",
+    "search_text": "칵테일 이름: Paloma\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Collins glass\n재료와 분량: Grape Soda (3 oz), Tequila (1 1/2 oz)\n제조법: Stir together and serve over ice."
+  },
+  {
+    "id": "17190",
+    "name": "Paradise",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "7 parts"
+      },
+      {
+        "name": "Apricot Brandy",
+        "measure": "4 parts"
+      },
+      {
+        "name": "Orange Juice",
+        "measure": "3 parts"
+      }
+    ],
+    "instructions": "Shake together over ice. Strain into cocktail glass and serve chilled.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/ejozd71504351060.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17190",
+    "search_text": "칵테일 이름: Paradise\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (7 parts), Apricot Brandy (4 parts), Orange Juice (3 parts)\n제조법: Shake together over ice. Strain into cocktail glass and serve chilled."
+  },
+  {
+    "id": "17249",
+    "name": "Pegu Club",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Orange Curacao",
+        "measure": "3/4 oz"
+      },
+      {
+        "name": "Lime Juice",
+        "measure": "3/4 oz"
+      },
+      {
+        "name": "Angostura Bitters",
+        "measure": "1 dash"
+      },
+      {
+        "name": "Orange Bitters",
+        "measure": "1 dash"
+      }
+    ],
+    "instructions": "Shake, strain, up, cocktail glass",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/jfkemm1513703902.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17249",
+    "search_text": "칵테일 이름: Pegu Club\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (1 1/2 oz), Orange Curacao (3/4 oz), Lime Juice (3/4 oz), Angostura Bitters (1 dash), Orange Bitters (1 dash)\n제조법: Shake, strain, up, cocktail glass"
+  },
+  {
+    "id": "17829",
+    "name": "Penicillin",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-fashioned glass",
+    "ingredients": [
+      {
+        "name": "Blended Scotch",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lemon Juice",
+        "measure": "3/4 oz"
+      },
+      {
+        "name": "Honey syrup",
+        "measure": "2 tsp"
+      },
+      {
+        "name": "Ginger Syrup",
+        "measure": "2 tsp"
+      },
+      {
+        "name": "Islay single malt Scotch",
+        "measure": "1/4 oz"
+      }
+    ],
+    "instructions": "Shake blended Scotch, lemon juice, honey syrup and ginger syrup with ice. Strain over large ice in chilled rocks glass. Float smoky Scotch on top (be sure to use a smoky Scotch such as an Islay single malt). Garnish with candied ginger.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/hc9b1a1521853096.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17829",
+    "search_text": "칵테일 이름: Penicillin\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Old-fashioned glass\n재료와 분량: Blended Scotch (2 oz), Lemon Juice (3/4 oz), Honey syrup (2 tsp), Ginger Syrup (2 tsp), Islay single malt Scotch (1/4 oz)\n제조법: Shake blended Scotch, lemon juice, honey syrup and ginger syrup with ice. Strain over large ice in chilled rocks glass. Float smoky Scotch on top (be sure to use a smoky Scotch such as an Islay single malt). Garnish with candied ginger."
+  },
+  {
+    "id": "17207",
+    "name": "Pina Colada",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins glass",
+    "ingredients": [
+      {
+        "name": "Light rum",
+        "measure": "3 oz"
+      },
+      {
+        "name": "Coconut milk",
+        "measure": "3 tblsp"
+      },
+      {
+        "name": "Pineapple",
+        "measure": "3 tblsp"
+      }
+    ],
+    "instructions": "Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/upgsue1668419912.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17207",
+    "search_text": "칵테일 이름: Pina Colada\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Collins glass\n재료와 분량: Light rum (3 oz), Coconut milk (3 tblsp), Pineapple (3 tblsp)\n제조법: Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve."
+  },
+  {
+    "id": "11936",
+    "name": "Pink Gin",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "White wine glass",
+    "ingredients": [
+      {
+        "name": "Bitters",
+        "measure": "3 dashes"
+      },
+      {
+        "name": "Gin",
+        "measure": "2 oz"
+      }
+    ],
+    "instructions": "Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/qyr51e1504888618.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11936",
+    "search_text": "칵테일 이름: Pink Gin\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: White wine glass\n재료와 분량: Bitters (3 dashes), Gin (2 oz)\n제조법: Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice."
+  },
+  {
+    "id": "11938",
+    "name": "Pink Lady",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Grenadine",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Light cream",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Egg white",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11938",
+    "search_text": "칵테일 이름: Pink Lady\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (1 1/2 oz), Grenadine (1 tsp), Light cream (1 tsp), Egg white (1)\n제조법: Shake all ingredients with ice, strain into a cocktail glass, and serve."
+  },
+  {
+    "id": "13214",
+    "name": "Pisco Sour",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Pisco",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lemon juice",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1-2 tblsp"
+      },
+      {
+        "name": "Ice",
+        "measure": "1"
+      },
+      {
+        "name": "Egg White",
+        "measure": ""
+      }
+    ],
+    "instructions": "Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/13214",
+    "search_text": "칵테일 이름: Pisco Sour\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Pisco (2 oz), Lemon juice (1 oz), Sugar (1-2 tblsp), Ice (1), Egg White (분량 미기재)\n제조법: Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters."
+  },
+  {
+    "id": "17192",
+    "name": "Porto flip",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Brandy",
+        "measure": "3 parts"
+      },
+      {
+        "name": "Port",
+        "measure": "9 parts"
+      },
+      {
+        "name": "Egg Yolk",
+        "measure": "2 parts"
+      }
+    ],
+    "instructions": "Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/64x5j41504351518.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17192",
+    "search_text": "칵테일 이름: Porto flip\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Brandy (3 parts), Port (9 parts), Egg Yolk (2 parts)\n제조법: Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve."
+  },
+  {
+    "id": "16031",
+    "name": "Radler",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Beer",
+        "measure": "12 oz"
+      },
+      {
+        "name": "7-Up",
+        "measure": "12 oz"
+      }
+    ],
+    "instructions": "Pour beer into large mug, slowly add the 7-up (or Sprite).",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/xz8igv1504888995.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/16031",
+    "search_text": "칵테일 이름: Radler\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Beer (12 oz), 7-Up (12 oz)\n제조법: Pour beer into large mug, slowly add the 7-up (or Sprite)."
+  },
+  {
+    "id": "178367",
+    "name": "Ramos Gin Fizz",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "4.5 cL"
+      },
+      {
+        "name": "Lemon Juice",
+        "measure": "3 cl"
+      },
+      {
+        "name": "Sugar Syrup",
+        "measure": "3 cl"
+      },
+      {
+        "name": "Cream",
+        "measure": "6 cl"
+      },
+      {
+        "name": "Egg White",
+        "measure": "1"
+      },
+      {
+        "name": "Vanilla extract",
+        "measure": "2 drop"
+      },
+      {
+        "name": "Soda Water",
+        "measure": "2 cl"
+      }
+    ],
+    "instructions": "Prepare all the ingredients on the counter to be able to work well and quickly, especially the cream and egg white.\r\n\r\nPour all the ingredients into a shaker.\r\n\r\nShake vigorously for 1 minute: cream and egg white must be mixed perfectly, so don't rush.\r\n\r\nNow open the shaker and put some ice and shake for 1-2 minutes. It depends on how long you can resist!\r\n\r\nPour into a highball glass, add a splash of soda and garnish to taste.\r\n\r\nRamos Gin Fizz was once drunk as an invigorating drink or even as a breakfast, try it as an aperitif and after dinner and you will discover a little gem now lost.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/967t911643844053.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/178367",
+    "search_text": "칵테일 이름: Ramos Gin Fizz\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Gin (4.5 cL), Lemon Juice (3 cl), Sugar Syrup (3 cl), Cream (6 cl), Egg White (1), Vanilla extract (2 drop), Soda Water (2 cl)\n제조법: Prepare all the ingredients on the counter to be able to work well and quickly, especially the cream and egg white.\r\n\r\nPour all the ingredients into a shaker.\r\n\r\nShake vigorously for 1 minute: cream and egg white must be mixed perfectly, so don't rush.\r\n\r\nNow open the shaker and put some ice and shake for 1-2 minutes. It depends on how long you can resist!\r\n\r\nPour into a highball glass, add a splash of soda and garnish to taste.\r\n\r\nRamos Gin Fizz was once drunk as an invigorating drink or even as a breakfast, try it as an aperitif and after dinner and you will discover a little gem now lost."
+  },
+  {
+    "id": "17214",
+    "name": "Russian Spring Punch",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "2.5 cl"
+      },
+      {
+        "name": "Creme de Cassis",
+        "measure": "1.5 cl"
+      },
+      {
+        "name": "Sugar Syrup",
+        "measure": "1 cl"
+      },
+      {
+        "name": "Lemon Juice",
+        "measure": "2.5 cl"
+      }
+    ],
+    "instructions": "Pour the ingredients into an highball glass, top with Sparkling wine.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17214",
+    "search_text": "칵테일 이름: Russian Spring Punch\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Vodka (2.5 cl), Creme de Cassis (1.5 cl), Sugar Syrup (1 cl), Lemon Juice (2.5 cl)\n제조법: Pour the ingredients into an highball glass, top with Sparkling wine."
+  },
+  {
+    "id": "12101",
+    "name": "Rusty Nail",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-fashioned glass",
+    "ingredients": [
+      {
+        "name": "Scotch",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Drambuie",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Lemon peel",
+        "measure": "1 twist of"
+      }
+    ],
+    "instructions": "Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/yqsvtw1478252982.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12101",
+    "search_text": "칵테일 이름: Rusty Nail\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-fashioned glass\n재료와 분량: Scotch (1 1/2 oz), Drambuie (1/2 oz), Lemon peel (1 twist of)\n제조법: Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist."
+  },
+  {
+    "id": "12107",
+    "name": "Salty Dog",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Grapefruit juice",
+        "measure": "5 oz"
+      },
+      {
+        "name": "Gin",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Salt",
+        "measure": "1/4 tsp"
+      }
+    ],
+    "instructions": "Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/4vfge01504890216.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12107",
+    "search_text": "칵테일 이름: Salty Dog\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Grapefruit juice (5 oz), Gin (1 1/2 oz), Salt (1/4 tsp)\n제조법: Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)"
+  },
+  {
+    "id": "13020",
+    "name": "Sangria",
+    "category": "Punch / Party Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Pitcher",
+    "ingredients": [
+      {
+        "name": "Red wine",
+        "measure": "1 bottle"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1/2 cup"
+      },
+      {
+        "name": "Orange juice",
+        "measure": "1 cup"
+      },
+      {
+        "name": "Lemon juice",
+        "measure": "1 cup"
+      },
+      {
+        "name": "Cloves",
+        "measure": ""
+      },
+      {
+        "name": "Cinnamon",
+        "measure": ""
+      }
+    ],
+    "instructions": "Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/xrvxpp1441249280.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/13020",
+    "search_text": "칵테일 이름: Sangria\n분류: Punch / Party Drink\n알코올 여부: Alcoholic\n잔 종류: Pitcher\n재료와 분량: Red wine (1 bottle), Sugar (1/2 cup), Orange juice (1 cup), Lemon juice (1 cup), Cloves (분량 미기재), Cinnamon (분량 미기재)\n제조법: Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses."
+  },
+  {
+    "id": "12127",
+    "name": "Sazerac",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-fashioned glass",
+    "ingredients": [
+      {
+        "name": "Ricard",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1/2 tsp superfine"
+      },
+      {
+        "name": "Peychaud bitters",
+        "measure": "2 dashes"
+      },
+      {
+        "name": "Water",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Bourbon",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lemon peel",
+        "measure": "1 twist of"
+      }
+    ],
+    "instructions": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/vvpxwy1439907208.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12127",
+    "search_text": "칵테일 이름: Sazerac\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-fashioned glass\n재료와 분량: Ricard (1 tsp), Sugar (1/2 tsp superfine), Peychaud bitters (2 dashes), Water (1 tsp), Bourbon (2 oz), Lemon peel (1 twist of)\n제조법: Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish."
+  },
+  {
+    "id": "12162",
+    "name": "Screwdriver",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Orange juice",
+        "measure": ""
+      }
+    ],
+    "instructions": "Mix in a highball glass with ice. Garnish and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12162",
+    "search_text": "칵테일 이름: Screwdriver\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Vodka (2 oz), Orange juice (분량 미기재)\n제조법: Mix in a highball glass with ice. Garnish and serve."
+  },
+  {
+    "id": "13377",
+    "name": "Sea breeze",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Cranberry juice",
+        "measure": "4 oz"
+      },
+      {
+        "name": "Grapefruit juice",
+        "measure": "1 oz"
+      }
+    ],
+    "instructions": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/13377",
+    "search_text": "칵테일 이름: Sea breeze\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Vodka (1 1/2 oz), Cranberry juice (4 oz), Grapefruit juice (1 oz)\n제조법: Build all ingredients in a highball glass filled with ice. Garnish with lime wedge."
+  },
+  {
+    "id": "12196",
+    "name": "Sidecar",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Cognac",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Cointreau",
+        "measure": "1/2 oz"
+      },
+      {
+        "name": "Lemon juice",
+        "measure": "1 oz"
+      }
+    ],
+    "instructions": "Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/x72sik1606854964.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12196",
+    "search_text": "칵테일 이름: Sidecar\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Cognac (2 oz), Cointreau (1/2 oz), Lemon juice (1 oz)\n제조법: Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass."
+  },
+  {
+    "id": "14195",
+    "name": "Snowball",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Advocaat",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Lemonade",
+        "measure": "8-10 oz cold"
+      },
+      {
+        "name": "Lemon",
+        "measure": "1 slice"
+      },
+      {
+        "name": "Ice",
+        "measure": "cubes"
+      }
+    ],
+    "instructions": "Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/7ibfs61504735416.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/14195",
+    "search_text": "칵테일 이름: Snowball\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Advocaat (1 1/2 oz), Lemonade (8-10 oz cold), Lemon (1 slice), Ice (cubes)\n제조법: Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once."
+  },
+  {
+    "id": "17215",
+    "name": "Spritz",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-Fashioned glass",
+    "ingredients": [
+      {
+        "name": "Prosecco",
+        "measure": "6 cl"
+      },
+      {
+        "name": "Campari",
+        "measure": "4 cl"
+      },
+      {
+        "name": "Soda Water",
+        "measure": "splash"
+      }
+    ],
+    "instructions": "Build into glass over ice, garnish and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/j9evx11504373665.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17215",
+    "search_text": "칵테일 이름: Spritz\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-Fashioned glass\n재료와 분량: Prosecco (6 cl), Campari (4 cl), Soda Water (splash)\n제조법: Build into glass over ice, garnish and serve."
+  },
+  {
+    "id": "17193",
+    "name": "Stinger",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Brandy",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "White Creme de Menthe",
+        "measure": "1/2 oz"
+      }
+    ],
+    "instructions": "Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/2ahv791504352433.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17193",
+    "search_text": "칵테일 이름: Stinger\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Brandy (1 1/2 oz), White Creme de Menthe (1/2 oz)\n제조법: Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass."
+  },
+  {
+    "id": "178307",
+    "name": "Tequila Slammer",
+    "category": "Shot",
+    "alcoholic": "Alcoholic",
+    "glass": "Hurricane glass",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "measure": "1 shot"
+      },
+      {
+        "name": "7-up",
+        "measure": "1 part"
+      }
+    ],
+    "instructions": "Mix carefully to avoid releasing the dissolved CO2.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/43uhr51551451311.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/178307",
+    "search_text": "칵테일 이름: Tequila Slammer\n분류: Shot\n알코올 여부: Alcoholic\n잔 종류: Hurricane glass\n재료와 분량: Tequila (1 shot), 7-up (1 part)\n제조법: Mix carefully to avoid releasing the dissolved CO2."
+  },
+  {
+    "id": "13621",
+    "name": "Tequila Sunrise",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball glass",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "measure": "2 measures"
+      },
+      {
+        "name": "Orange juice",
+        "measure": ""
+      },
+      {
+        "name": "Grenadine",
+        "measure": ""
+      }
+    ],
+    "instructions": "Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/quqyqp1480879103.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/13621",
+    "search_text": "칵테일 이름: Tequila Sunrise\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Highball glass\n재료와 분량: Tequila (2 measures), Orange juice (분량 미기재), Grenadine (분량 미기재)\n제조법: Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve."
+  },
+  {
+    "id": "17247",
+    "name": "The Last Word",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Green Chartreuse",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Maraschino Liqueur",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Lime Juice",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Gin",
+        "measure": "1 oz"
+      }
+    ],
+    "instructions": "Shake with ice and strain into a cocktail glass.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/91oule1513702624.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17247",
+    "search_text": "칵테일 이름: The Last Word\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Green Chartreuse (1 oz), Maraschino Liqueur (1 oz), Lime Juice (1 oz), Gin (1 oz)\n제조법: Shake with ice and strain into a cocktail glass."
+  },
+  {
+    "id": "12402",
+    "name": "Tom Collins",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lemon juice",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Sugar",
+        "measure": "1 tsp superfine"
+      },
+      {
+        "name": "Club soda",
+        "measure": "3 oz"
+      },
+      {
+        "name": "Maraschino cherry",
+        "measure": "1"
+      },
+      {
+        "name": "Orange",
+        "measure": "1"
+      }
+    ],
+    "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/7cll921606854636.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12402",
+    "search_text": "칵테일 이름: Tom Collins\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Collins glass\n재료와 분량: Gin (2 oz), Lemon juice (1 oz), Sugar (1 tsp superfine), Club soda (3 oz), Maraschino cherry (1), Orange (1)\n제조법: In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice."
+  },
+  {
+    "id": "17217",
+    "name": "Vampiro",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-Fashioned glass",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "measure": "6 cl"
+      },
+      {
+        "name": "Tomato Juice",
+        "measure": "3 cl"
+      },
+      {
+        "name": "Orange Juice",
+        "measure": "3 cl"
+      },
+      {
+        "name": "Lime Juice",
+        "measure": "1.5 cl"
+      },
+      {
+        "name": "Sugar Syrup",
+        "measure": "1 dash"
+      },
+      {
+        "name": "Salt",
+        "measure": "1 pinch"
+      }
+    ],
+    "instructions": "Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first \"rim\" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/yfhn371504374246.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17217",
+    "search_text": "칵테일 이름: Vampiro\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-Fashioned glass\n재료와 분량: Tequila (6 cl), Tomato Juice (3 cl), Orange Juice (3 cl), Lime Juice (1.5 cl), Sugar Syrup (1 dash), Salt (1 pinch)\n제조법: Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first \"rim\" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended."
+  },
+  {
+    "id": "17218",
+    "name": "Vesper",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "6 cl"
+      },
+      {
+        "name": "Vodka",
+        "measure": "1.5 cl"
+      },
+      {
+        "name": "Lillet Blanc",
+        "measure": "0.75 cl"
+      }
+    ],
+    "instructions": "Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/mtdxpa1504374514.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17218",
+    "search_text": "칵테일 이름: Vesper\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (6 cl), Vodka (1.5 cl), Lillet Blanc (0.75 cl)\n제조법: Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel."
+  },
+  {
+    "id": "14167",
+    "name": "Vodka Martini",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Dry Vermouth",
+        "measure": "3/4 oz"
+      },
+      {
+        "name": "Olive",
+        "measure": "1"
+      }
+    ],
+    "instructions": "Shake the vodka and vermouth together with a number of ice cubes, strain into a cocktail glass, add the olive and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/qyxrqw1439906528.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/14167",
+    "search_text": "칵테일 이름: Vodka Martini\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Vodka (1 1/2 oz), Dry Vermouth (3/4 oz), Olive (1)\n제조법: Shake the vodka and vermouth together with a number of ice cubes, strain into a cocktail glass, add the olive and serve."
+  },
+  {
+    "id": "11004",
+    "name": "Whiskey Sour",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-fashioned glass",
+    "ingredients": [
+      {
+        "name": "Blended whiskey",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Lemon",
+        "measure": "Juice of 1/2"
+      },
+      {
+        "name": "Powdered sugar",
+        "measure": "1/2 tsp"
+      },
+      {
+        "name": "Cherry",
+        "measure": "1"
+      },
+      {
+        "name": "Lemon",
+        "measure": "1/2 slice"
+      }
+    ],
+    "instructions": "Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/11004",
+    "search_text": "칵테일 이름: Whiskey Sour\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-fashioned glass\n재료와 분량: Blended whiskey (2 oz), Lemon (Juice of 1/2), Powdered sugar (1/2 tsp), Cherry (1), Lemon (1/2 slice)\n제조법: Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice."
+  },
+  {
+    "id": "17194",
+    "name": "White Lady",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "measure": "4cl"
+      },
+      {
+        "name": "Triple Sec",
+        "measure": "3cl"
+      },
+      {
+        "name": "Lemon Juice",
+        "measure": "2cl"
+      }
+    ],
+    "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/jofsaz1504352991.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17194",
+    "search_text": "칵테일 이름: White Lady\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: Gin (4cl), Triple Sec (3cl), Lemon Juice (2cl)\n제조법: Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass."
+  },
+  {
+    "id": "12528",
+    "name": "White Russian",
+    "category": "Ordinary Drink",
+    "alcoholic": "Alcoholic",
+    "glass": "Old-fashioned glass",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "measure": "2 oz"
+      },
+      {
+        "name": "Coffee liqueur",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Light cream",
+        "measure": ""
+      }
+    ],
+    "instructions": "Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/12528",
+    "search_text": "칵테일 이름: White Russian\n분류: Ordinary Drink\n알코올 여부: Alcoholic\n잔 종류: Old-fashioned glass\n재료와 분량: Vodka (2 oz), Coffee liqueur (1 oz), Light cream (분량 미기재)\n제조법: Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve."
+  },
+  {
+    "id": "13056",
+    "name": "Wine Cooler",
+    "category": "Punch / Party Drink",
+    "alcoholic": "Optional alcohol",
+    "glass": "Collins Glass",
+    "ingredients": [
+      {
+        "name": "Red wine",
+        "measure": "2 oz white or"
+      },
+      {
+        "name": "Lemon-lime soda",
+        "measure": "5 oz"
+      },
+      {
+        "name": "Ice",
+        "measure": "cubes"
+      }
+    ],
+    "instructions": "Mix wine and soft drink. Pour into glass. Add ice.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/yutxtv1473344210.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/13056",
+    "search_text": "칵테일 이름: Wine Cooler\n분류: Punch / Party Drink\n알코올 여부: Optional alcohol\n잔 종류: Collins Glass\n재료와 분량: Red wine (2 oz white or), Lemon-lime soda (5 oz), Ice (cubes)\n제조법: Mix wine and soft drink. Pour into glass. Add ice."
+  },
+  {
+    "id": "17219",
+    "name": "Yellow Bird",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Cocktail glass",
+    "ingredients": [
+      {
+        "name": "White Rum",
+        "measure": "3 cl"
+      },
+      {
+        "name": "Galliano",
+        "measure": "1.5 cl"
+      },
+      {
+        "name": "Triple Sec",
+        "measure": "1.5 cl"
+      },
+      {
+        "name": "Lime Juice",
+        "measure": "1.5 cl"
+      }
+    ],
+    "instructions": "Shake and strain into a chilled cocktail glass",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/2t9r6w1504374811.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17219",
+    "search_text": "칵테일 이름: Yellow Bird\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Cocktail glass\n재료와 분량: White Rum (3 cl), Galliano (1.5 cl), Triple Sec (1.5 cl), Lime Juice (1.5 cl)\n제조법: Shake and strain into a chilled cocktail glass"
+  },
+  {
+    "id": "17241",
+    "name": "Zombie",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Hurricane glass",
+    "ingredients": [
+      {
+        "name": "Rum",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "Gold rum",
+        "measure": "1 1/2 oz"
+      },
+      {
+        "name": "151 proof rum",
+        "measure": "1 oz"
+      },
+      {
+        "name": "Pernod",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Grenadine",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Lime Juice",
+        "measure": "1 tsp"
+      },
+      {
+        "name": "Angostura Bitters",
+        "measure": "1 drop"
+      }
+    ],
+    "instructions": "Blend at high speed for no more than 5 seconds.\n\nPour into a glass, add ice cubes to fill, then add the garnish.\n\n*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.\n\nSimmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.\n\nThen add 1 part of the syrup and 2 parts of fresh grapefruit juice together.",
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/2en3jk1509557725.jpg",
+    "source": "TheCocktailDB",
+    "source_url": "https://www.thecocktaildb.com/drink/17241",
+    "search_text": "칵테일 이름: Zombie\n분류: Cocktail\n알코올 여부: Alcoholic\n잔 종류: Hurricane glass\n재료와 분량: Rum (1 1/2 oz), Gold rum (1 1/2 oz), 151 proof rum (1 oz), Pernod (1 tsp), Grenadine (1 tsp), Lime Juice (1 tsp), Angostura Bitters (1 drop)\n제조법: Blend at high speed for no more than 5 seconds.\n\nPour into a glass, add ice cubes to fill, then add the garnish.\n\n*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.\n\nSimmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.\n\nThen add 1 part of the syrup and 2 parts of fresh grapefruit juice together."
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "queries": [
+    {
+      "query": "Mojito",
+      "language": "en"
+    },
+    {
+      "query": "Mint",
+      "language": "en"
+    },
+    {
+      "query": "Cuba",
+      "language": "en"
+    }
+  ],
+  "documents": [
+    {
+      "page_id": 20883,
+      "title": "Mojito",
+      "url": "https://en.wikipedia.org/wiki/Mojito",
+      "text": "Mojito (; Spanish: [moˈxito]) is a traditional Cuban punch. The cocktail often consists of five ingredients: white rum, sugar (traditionally sugar cane juice), lime juice, soda water, and mint. Its combination of sweetness, citrus, and herbaceous mint flavors is intended to complement the rum, and has made the mojito a popular summer drink.\nWhen preparing a mojito, fresh lime juice is added to sugar (or to simple syrup) and mint leaves. The mixture is then gently mashed with a muddler. The mint leaves should only be bruised to release the essential oils and should not be shredded. Then rum is added and the mixture is briefly stirred to dissolve the sugar and to lift the mint leaves up from the bottom for better presentation. Finally, the drink is topped with crushed ice and sparkling soda water. Mint sprigs or lime wedges are used to garnish the glass.\nIn Cuba, the mint used to make mojito is most commonly Mentha × villosa (called yerba buena or hierbabuena in Cuba) which has a light minty-citrus aroma, but outside of Cuba spearmint, which has a stronger mint aroma, is often used.\n\n\n== History ==\nHavana, Cuba, is the birthplace of the mojito, although its exact origin is a subject of debate. It was known that the native people had remedies for various tropical illnesses, so a small boarding party went ashore on Cuba and came back with ingredients for an effective medicine. The ingredients were aguardiente de caña (translated as \"burning water\", a crude form of rum made from sugar cane) mixed with local tropical ingredients: lime, sugarcane juice, and mint. Lime juice on its own would have significantly prevented scurvy and dysentery, and tafia/rum was soon added as it became widely available to the British (ca. 1650). Mint, lime and sugar were also helpful in hiding the harsh taste of this spirit. Another theory is that it was invented by Sir Francis Drake.  The \"El Draque\" cocktail was prepared with brandy. While this drink was not called a Mojito at this time, it was the original combination of these ingredients.\nThere are several theories behind the origin of the name Mojito: one such theory holds that name relates to mojo, a Cuban seasoning made from lime and used to flavor dishes. Another theory is that the name Mojito is simply a derivative of mojadito (Spanish for \"lightly wet\"), the diminutive of mojado (\"wet\").\nThe mojito has routinely been presented as a favorite drink of author Ernest Hemingway. It has also often been said that Hemingway made the bar called La Bodeguita del Medio famous when he became one of its regulars and wrote \"My Mojito in La Bodeguita, My Daiquiri in El Floridita\" on a wall of the bar. This epigraph, handwritten and signed in his name, persists despite doubts expressed by Hemingway biographers about such patronage and the author's taste for mojitos. La Bodeguita del Medio is better known for its food than its drink.\nA survey by an international market research company found that in 2016 the mojito was the most popular cocktail in Britain and France.\n\n\n== Variations ==\nIt is said that some hotels in Havana use powdered sugar with the mint leaves rather than granulated sugar as the former dissolves more readily, while many establishments use simple syrup instead. The \"rose mojito\", which is a mojito variation containing the rose-flavored spirit, Lanique, was first created at the Albert's Schloss bar in Manchester, England. A mojito without alcohol is called a \"virgin mojito\" or \"nojito\". The Cojito adds coconut flavor, often through the use of coconut-flavored rum. A dirty mojito calls for gold rum instead of white rum, and raw sugar or demerara sugar. Demerara is a light brown, partially refined, sugar produced from the first crystallization during processing cane juice into sugar crystals. Adding this to a mojito gives it a caramel-like flavor. A dark rum mojito simply calls for a dark rum to be used instead of white.\nIn Mexico, tequila brand Don Julio offers the \"mojito blanco\" by simply replacing rum with tequila.\nIn Peru, there are mojito variations that are made by adding fruits like grapefruit, called \"mojito de toronja\", or with passionfruit, called \"mojito de maracuyá\".  Some other fruits are found in other mojito recipes: pears, raspberries, and oranges. Purees of such fruits may also be used instead of the whole fruit itself. The strawberry mojito includes muddled strawberries; a further departure along these lines substitutes gin for the light rum and lemon juice for lime juice, and adds tonic.\n\n\n== See also ==\n\nCaipirinha, Brazil's national cocktail made with cachaça\nList of cocktails\nMint julep, cocktail made with bourbon\nGrog, a mix of rum, water and lime, given as a ration to Royal Navy sailors in the 18th century\n\n\n== References ==\n\n\n== External links ==\n\n Media related to Mojito at Wikimedia Commons\nA version of Denise Gee’s Nojito recipe on CentDiary Archived 15 August 2025 at the Wayback Machine",
+      "source": "영어 위키백과",
+      "language": "en",
+      "cocktail_id": "11000",
+      "related_cocktail": "Mojito",
+      "section_hint": "",
+      "collected_at": "2026-10-22T00:59:04.266576+00:00",
+      "selection_method": "사전 문서 연결 검토",
+      "is_main_document": true
+    }
+  ],
+  "usage": {
+    "keywords": {
+      "input_tokens": 336,
+      "output_tokens": 195,
+      "total_tokens": 531,
+      "input_token_details": {
+        "audio": 0,
+        "cache_read": 0,
+        "cache_creation": 0
+      },
+      "output_token_details": {
+        "audio": 0,
+        "reasoning": 154
+      }
+    },
+    "selection": {
+      "input_tokens": 935,
+      "output_tokens": 80,
+      "total_tokens": 1015,
+      "input_token_details": {
+        "audio": 0,
+        "cache_read": 0,
+        "cache_creation": 0
+      },
+      "output_token_details": {
+        "audio": 0,
+        "reasoning": 61
+      }
+    }
+  }
+}

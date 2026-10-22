@@ -1,0 +1,814 @@
+[
+  {
+    "cocktail_id": "11014",
+    "name": "Alexander",
+    "status": "selected",
+    "document_title": "Alexander (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "15941",
+    "name": "Americano",
+    "status": "selected",
+    "document_title": "Americano (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17180",
+    "name": "Aviation",
+    "status": "selected",
+    "document_title": "Aviation (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "15853",
+    "name": "B-52",
+    "status": "selected",
+    "document_title": "B-52 (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17195",
+    "name": "Bellini",
+    "status": "on_hold",
+    "reason": "Bellini: 복숭아 재료와 와인 종류 차이 확인 필요"
+  },
+  {
+    "cocktail_id": "17254",
+    "name": "Bijou",
+    "status": "selected",
+    "document_title": "Bijou (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11106",
+    "name": "Blackthorn",
+    "status": "selected",
+    "document_title": "Blackthorn (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11124",
+    "name": "Boomerang",
+    "status": "on_hold",
+    "reason": "Boomerang: 문서에 보유 레시피와 같은 변형이 있는지 확인 필요"
+  },
+  {
+    "cocktail_id": "17210",
+    "name": "Bramble",
+    "status": "selected",
+    "document_title": "Bramble (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "178310",
+    "name": "Brooklyn",
+    "status": "selected",
+    "document_title": "Brooklyn (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11202",
+    "name": "Caipirinha",
+    "status": "selected",
+    "document_title": "Caipirinha",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17185",
+    "name": "Casino",
+    "status": "selected",
+    "document_title": "Casino (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17186",
+    "name": "Clover Club",
+    "status": "excluded",
+    "reason": "Clover Club이 아닌 바텐더 인물 문서에 연결됨"
+  },
+  {
+    "cocktail_id": "12798",
+    "name": "Coffee Liqueur",
+    "status": "on_hold",
+    "reason": "Coffee Liqueur: 목록의 짧은 정의만으로 설명이 충분한지 확인 필요"
+  },
+  {
+    "cocktail_id": "17250",
+    "name": "Corpse Reviver",
+    "status": "selected",
+    "document_title": "Corpse reviver",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17196",
+    "name": "Cosmopolitan",
+    "status": "selected",
+    "document_title": "Cosmopolitan (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "14608",
+    "name": "Cream Soda",
+    "status": "excluded",
+    "reason": "럼·진저에일 레시피가 일반 탄산음료 문서에 연결됨"
+  },
+  {
+    "cocktail_id": "11288",
+    "name": "Cuba Libre",
+    "status": "selected",
+    "document_title": "Rum and Coke",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11006",
+    "name": "Daiquiri",
+    "status": "selected",
+    "document_title": "Daiquiri",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "178334",
+    "name": "Death in the Afternoon",
+    "status": "selected",
+    "document_title": "Death in the Afternoon (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17187",
+    "name": "Derby",
+    "status": "selected",
+    "document_title": "Derby (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17181",
+    "name": "Dirty Martini",
+    "status": "selected",
+    "document_title": "Martini (cocktail)",
+    "section_hint": "dirty martini"
+  },
+  {
+    "cocktail_id": "11005",
+    "name": "Dry Martini",
+    "status": "selected",
+    "document_title": "Martini (cocktail)",
+    "section_hint": "dry martini"
+  },
+  {
+    "cocktail_id": "12668",
+    "name": "Egg Cream",
+    "status": "selected",
+    "document_title": "Egg cream",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12910",
+    "name": "Egg Nog #4",
+    "status": "selected",
+    "document_title": "Eggnog",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17212",
+    "name": "Espresso Martini",
+    "status": "on_hold",
+    "reason": "Espresso Martini: 재료 목록에 에스프레소 누락"
+  },
+  {
+    "cocktail_id": "13202",
+    "name": "Flaming Dr. Pepper",
+    "status": "on_hold",
+    "reason": "Flaming Dr. Pepper: 문서와 보유 레시피의 구성 차이"
+  },
+  {
+    "cocktail_id": "17197",
+    "name": "French 75",
+    "status": "selected",
+    "document_title": "French 75 (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17213",
+    "name": "French Martini",
+    "status": "selected",
+    "document_title": "French martini",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "178352",
+    "name": "Frosé",
+    "status": "selected",
+    "document_title": "Frosé (drink)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11387",
+    "name": "Frozen Daiquiri",
+    "status": "selected",
+    "document_title": "Daiquiri",
+    "section_hint": "Frozen daiquiri"
+  },
+  {
+    "cocktail_id": "17255",
+    "name": "Gimlet",
+    "status": "selected",
+    "document_title": "Gimlet (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11410",
+    "name": "Gin Fizz",
+    "status": "selected",
+    "document_title": "Fizz (cocktail)",
+    "section_hint": "Gin fizz"
+  },
+  {
+    "cocktail_id": "11417",
+    "name": "Gin Sour",
+    "status": "selected",
+    "document_title": "Sour (cocktail)",
+    "section_hint": "Gin sour"
+  },
+  {
+    "cocktail_id": "12944",
+    "name": "Gluehwein",
+    "status": "selected",
+    "document_title": "Mulled wine",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11423",
+    "name": "Godfather",
+    "status": "selected",
+    "document_title": "Godfather (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11424",
+    "name": "Godmother",
+    "status": "selected",
+    "document_title": "Godfather (cocktail)",
+    "section_hint": "godmother"
+  },
+  {
+    "cocktail_id": "17200",
+    "name": "Grasshopper",
+    "status": "selected",
+    "document_title": "Grasshopper (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17252",
+    "name": "Greyhound",
+    "status": "selected",
+    "document_title": "Greyhound (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11462",
+    "name": "Harvey Wallbanger",
+    "status": "selected",
+    "document_title": "Harvey Wallbanger",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17201",
+    "name": "Hemingway Special",
+    "status": "selected",
+    "document_title": "Hemingway special",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17202",
+    "name": "Horse's Neck",
+    "status": "selected",
+    "document_title": "Horse's neck",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "178345",
+    "name": "Hot Toddy",
+    "status": "selected",
+    "document_title": "Hot toddy",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "13971",
+    "name": "Irish Coffee",
+    "status": "selected",
+    "document_title": "Irish coffee",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12820",
+    "name": "Irish Cream",
+    "status": "on_hold",
+    "reason": "Irish Cream: 스카치 기반 보유 레시피와 문서 설명 차이"
+  },
+  {
+    "cocktail_id": "11580",
+    "name": "John Collins",
+    "status": "selected",
+    "document_title": "John Collins (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11600",
+    "name": "Kamikaze",
+    "status": "selected",
+    "document_title": "Kamikaze (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12764",
+    "name": "Karsk",
+    "status": "selected",
+    "document_title": "Karsk",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17203",
+    "name": "Kir",
+    "status": "on_hold",
+    "reason": "Kir: 보유 레시피가 Kir royal 설명에 가까움"
+  },
+  {
+    "cocktail_id": "13837",
+    "name": "Kir Royale",
+    "status": "selected",
+    "document_title": "Kir royal",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "14366",
+    "name": "Lemon Drop",
+    "status": "selected",
+    "document_title": "Lemon drop (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12704",
+    "name": "Limeade",
+    "status": "selected",
+    "document_title": "Limeade",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17204",
+    "name": "Long Island Iced Tea",
+    "status": "selected",
+    "document_title": "Long Island iced tea",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11002",
+    "name": "Long Island Tea",
+    "status": "selected",
+    "document_title": "Long Island iced tea",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "13196",
+    "name": "Long vodka",
+    "status": "selected",
+    "document_title": "Long vodka",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11690",
+    "name": "Mai Tai",
+    "status": "selected",
+    "document_title": "Mai Tai",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11008",
+    "name": "Manhattan",
+    "status": "selected",
+    "document_title": "Manhattan (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11007",
+    "name": "Margarita",
+    "status": "selected",
+    "document_title": "Margarita",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11728",
+    "name": "Martini",
+    "status": "selected",
+    "document_title": "Martini (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17188",
+    "name": "Mary Pickford",
+    "status": "selected",
+    "document_title": "Mary Pickford (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12774",
+    "name": "Masala Chai",
+    "status": "selected",
+    "document_title": "Masala chai",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12776",
+    "name": "Melya",
+    "status": "selected",
+    "document_title": "List of coffee drinks",
+    "section_hint": "Melya"
+  },
+  {
+    "cocktail_id": "13936",
+    "name": "Miami Vice",
+    "status": "selected",
+    "document_title": "Piña colada",
+    "section_hint": "Miami Vice"
+  },
+  {
+    "cocktail_id": "178343",
+    "name": "Michelada",
+    "status": "selected",
+    "document_title": "Michelada",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17205",
+    "name": "Mimosa",
+    "status": "selected",
+    "document_title": "Mimosa (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17206",
+    "name": "Mint Julep",
+    "status": "selected",
+    "document_title": "Mint julep",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11000",
+    "name": "Mojito",
+    "status": "selected",
+    "document_title": "Mojito",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17189",
+    "name": "Monkey Gland",
+    "status": "selected",
+    "document_title": "Monkey gland (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11009",
+    "name": "Moscow Mule",
+    "status": "selected",
+    "document_title": "Moscow mule",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12988",
+    "name": "Mulled Wine",
+    "status": "selected",
+    "document_title": "Mulled wine",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11003",
+    "name": "Negroni",
+    "status": "selected",
+    "document_title": "Negroni",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11844",
+    "name": "New York Sour",
+    "status": "selected",
+    "document_title": "New York sour",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "178371",
+    "name": "Old Cuban",
+    "status": "selected",
+    "document_title": "Old Cuban",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11001",
+    "name": "Old Fashioned",
+    "status": "selected",
+    "document_title": "Old fashioned (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17827",
+    "name": "Old Pal",
+    "status": "selected",
+    "document_title": "Old pal",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "15330",
+    "name": "Orange Crush",
+    "status": "selected",
+    "document_title": "Orange Crush (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "16995",
+    "name": "Orange Whip",
+    "status": "selected",
+    "document_title": "Orange whip",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11872",
+    "name": "Orgasm",
+    "status": "selected",
+    "document_title": "Orgasm (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17253",
+    "name": "Paloma",
+    "status": "selected",
+    "document_title": "Paloma (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17190",
+    "name": "Paradise",
+    "status": "selected",
+    "document_title": "Paradise (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17249",
+    "name": "Pegu Club",
+    "status": "selected",
+    "document_title": "Pegu Club (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17829",
+    "name": "Penicillin",
+    "status": "selected",
+    "document_title": "Penicillin (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17207",
+    "name": "Pina Colada",
+    "status": "selected",
+    "document_title": "Piña colada",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11936",
+    "name": "Pink Gin",
+    "status": "selected",
+    "document_title": "Pink gin",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "11938",
+    "name": "Pink Lady",
+    "status": "selected",
+    "document_title": "Pink lady (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "13214",
+    "name": "Pisco Sour",
+    "status": "selected",
+    "document_title": "Pisco sour",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17191",
+    "name": "Planter's Punch",
+    "status": "on_hold",
+    "reason": "Planter's Punch: 문서와 보유 레시피의 재료 차이"
+  },
+  {
+    "cocktail_id": "17192",
+    "name": "Porto flip",
+    "status": "selected",
+    "document_title": "Porto flip",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "16031",
+    "name": "Radler",
+    "status": "selected",
+    "document_title": "Shandy",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "178367",
+    "name": "Ramos Gin Fizz",
+    "status": "selected",
+    "document_title": "Fizz (cocktail)",
+    "section_hint": "Ramos gin fizz"
+  },
+  {
+    "cocktail_id": "14087",
+    "name": "Red Snapper",
+    "status": "excluded",
+    "reason": "동명 칵테일이지만 주요 재료가 다른 문서에 연결됨"
+  },
+  {
+    "cocktail_id": "17208",
+    "name": "Rose",
+    "status": "on_hold",
+    "reason": "Rose: 문서와 보유 레시피의 주요 재료 차이"
+  },
+  {
+    "cocktail_id": "16250",
+    "name": "Rum Runner",
+    "status": "excluded",
+    "reason": "칵테일이 아닌 주류 밀수 행위 문서에 연결됨"
+  },
+  {
+    "cocktail_id": "17214",
+    "name": "Russian Spring Punch",
+    "status": "selected",
+    "document_title": "List of IBA official cocktails",
+    "section_hint": "Russian spring punch"
+  },
+  {
+    "cocktail_id": "12101",
+    "name": "Rusty Nail",
+    "status": "selected",
+    "document_title": "Rusty nail (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12107",
+    "name": "Salty Dog",
+    "status": "selected",
+    "document_title": "Salty dog (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "13020",
+    "name": "Sangria",
+    "status": "selected",
+    "document_title": "Sangria",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12127",
+    "name": "Sazerac",
+    "status": "selected",
+    "document_title": "Sazerac",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12162",
+    "name": "Screwdriver",
+    "status": "selected",
+    "document_title": "Screwdriver (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "13377",
+    "name": "Sea breeze",
+    "status": "selected",
+    "document_title": "Sea breeze (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12196",
+    "name": "Sidecar",
+    "status": "selected",
+    "document_title": "Sidecar (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "14195",
+    "name": "Snowball",
+    "status": "selected",
+    "document_title": "Snowball (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17215",
+    "name": "Spritz",
+    "status": "selected",
+    "document_title": "Spritz (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17193",
+    "name": "Stinger",
+    "status": "selected",
+    "document_title": "Stinger (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "178307",
+    "name": "Tequila Slammer",
+    "status": "selected",
+    "document_title": "Tequila slammer",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "13621",
+    "name": "Tequila Sunrise",
+    "status": "selected",
+    "document_title": "Tequila sunrise",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17247",
+    "name": "The Last Word",
+    "status": "selected",
+    "document_title": "Last Word (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12402",
+    "name": "Tom Collins",
+    "status": "selected",
+    "document_title": "Tom Collins",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17217",
+    "name": "Vampiro",
+    "status": "selected",
+    "document_title": "Vampiro (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17218",
+    "name": "Vesper",
+    "status": "selected",
+    "document_title": "Vesper (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "14167",
+    "name": "Vodka Martini",
+    "status": "selected",
+    "document_title": "Martini (cocktail)",
+    "section_hint": "vodka martini"
+  },
+  {
+    "cocktail_id": "11004",
+    "name": "Whiskey Sour",
+    "status": "selected",
+    "document_title": "Whiskey sour",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12518",
+    "name": "Whisky Mac",
+    "status": "on_hold",
+    "reason": "Whisky Mac: 보유 데이터의 Wine이 진저 와인인지 불명확"
+  },
+  {
+    "cocktail_id": "17194",
+    "name": "White Lady",
+    "status": "selected",
+    "document_title": "White lady (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "12528",
+    "name": "White Russian",
+    "status": "selected",
+    "document_title": "White Russian (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "13056",
+    "name": "Wine Cooler",
+    "status": "selected",
+    "document_title": "Wine cooler",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17219",
+    "name": "Yellow Bird",
+    "status": "selected",
+    "document_title": "Yellow bird (cocktail)",
+    "section_hint": ""
+  },
+  {
+    "cocktail_id": "17241",
+    "name": "Zombie",
+    "status": "selected",
+    "document_title": "Zombie (cocktail)",
+    "section_hint": ""
+  }
+]
